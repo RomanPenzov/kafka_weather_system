@@ -1,0 +1,27 @@
+[
+    {
+        "city": "Vladivostok",
+        "temperature": -26,
+        "condition": "sunny"
+    },
+    {
+        "city": "Moscow",
+        "temperature": -1,
+        "condition": "cloudy"
+    },
+    {
+        "city": "Saint Petersburg",
+        "temperature": -1,
+        "condition": "rainy"
+    },
+    {
+        "city": "Saint Petersburg",
+        "temperature": -3,
+        "condition": "cloudy"
+    },
+    {
+        "city": "Sochi",
+        "temperature": -1,
+        "condition": "windy"
+    }
+]
